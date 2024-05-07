@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Email Spam Classifier",
+        "imageSrc": "projects/project.png",
+        "description": "Developed an email spam classifier utilizing Machine Learning techniques.",
+        "skills": ["Python", "Machine Learning", "NLTK"]
+    },
+
+    {
+      "title": "QR-Code Generator",
+      "imageSrc": "projects/project.png",
+      "description": "I Created and Devloped QR-code generator using HTML,CSS, Javascript and NodeJs.",
+      "skills": ["HTML", "CSS", "NodeJs", "JS"]
+      
+    },
+
+    {
+        "title": "Amazon's Landing page",
+        "imageSrc": "projects/project.png",
+        "description": "Developed a very stylish Landing page of Amazon using HTML and css technologies.",
+        "skills": ["HTML", "CSS"]
+    },
+
+    {
+        "title": "Quiz Website",
+        "imageSrc": "projects/project.png",
+        "description": "I created a very stylish Quiz website uisng HTML, CSS, JS.",
+        "skills": ["HTML", "CSS", "JS"]
+    },
+    
+    {
+        "title": "Simon Game",
+        "imageSrc": "projects/project.png",
+        "description": "I created a game called Simon game using HTML, CSS, JS.",
+        "skills": ["HTML", "CSS", "JS"]
+    }
+  ]
